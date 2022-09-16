@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/imvedanshmehra/books-management/pkg/models"
+	"github.com/imvedanshmehra/books-management-server/pkg/models"
 )
 
 var NewBook models.Book

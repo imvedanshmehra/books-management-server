@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/imvedanshmehra/books-management/pkg/config"
+	"github.com/imvedanshmehra/books-management-server/pkg/config"
 	"gorm.io/gorm"
 )
 

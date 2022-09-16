@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/imvedanshmehra/books-management/pkg/routes"
+	"github.com/imvedanshmehra/books-management-server/pkg/routes"
 )
 
 func main() {
